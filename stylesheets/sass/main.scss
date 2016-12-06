@@ -1,0 +1,36 @@
+// MAIN SASS FILE
+
+
+// IMPORTS
+
+@import 'helpers/reset';
+
+
+// VARIABLES
+
+
+
+
+// PLACEHOLDERS
+
+
+
+// CODE
+
+body {
+  position: fixed;
+  margin-top: 150px;
+  margin-left: 38vw;
+}
+
+#resizable {
+  width: 150px;
+  height: 150px;
+  padding: 0.5em;
+}
+
+
+#resizable h3 {
+  text-align: center;
+  margin: 0;
+}
