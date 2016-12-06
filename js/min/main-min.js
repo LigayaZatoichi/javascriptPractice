@@ -1,1 +1,0 @@
-$(document).ready(function(){$(function(){$("#resizable").resizable({animate:!0})})});
