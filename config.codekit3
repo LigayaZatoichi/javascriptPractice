@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
 	"\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
@@ -37,7 +43,7 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/stylesheets\/sass\/helpers\/reset.scss": {
+	"\/stylesheets\/sass\/helpers\/_reset.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -45,7 +51,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/stylesheets\/sass\/css\/reset.css",
+		"oAP": "\/stylesheets\/sass\/css\/_reset.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1424,7 +1430,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"dojo": {
@@ -1436,7 +1442,7 @@
 			"flagValue": -1
 			},
 		"eqeqeq": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqnull": {

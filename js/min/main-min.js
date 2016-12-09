@@ -1,0 +1,1 @@
+$(document).ready(function(){$('input[type="submit"]').click(function(){for(var n=$("#box1").val(),t=$("#box2").val(),i=!1,e=n;e<=t;e++)$("#l"+e).toggleClass("lightOn")}),$("#add").click(function(){var n=document.getElementById("#lightContainer");n.innerHTML=n.innerHTML+"Extra stuff"})});
